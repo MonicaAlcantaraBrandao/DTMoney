@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-09-08T17:06:03.026Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-09-08T17:00:03.026Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-09-08T15:24:03.026Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-09-09T21:48:03.222Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-09T21:56:12.759Z",
+      "id": 5
+    },
+    {
+      "description": "Açaí",
+      "price": 17,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-09T22:14:04.795Z",
+      "id": 6
+    },
+    {
+      "description": "Jogo do homem aranha",
+      "price": 350,
+      "category": "Jogos",
+      "type": "outcome",
+      "createdAt": "2023-09-11T22:52:55.646Z",
+      "id": 7
+    }
+  ]
+}
